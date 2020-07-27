@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969462493028",
+    "firebase_url": "https://kreasecurityapp.firebaseio.com",
+    "project_id": "kreasecurityapp",
+    "storage_bucket": "kreasecurityapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969462493028:android:1609e17493fabf639d1471",
+        "android_client_info": {
+          "package_name": "com.arnavjalan.krea_app_security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969462493028-kqjbstte5j751el6m580ve3l0rhgp5if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arnavjalan.krea_app_security",
+            "certificate_hash": "67ad9b84fe67395018595794a919312aa2b74645"
+          }
+        },
+        {
+          "client_id": "969462493028-flasvkc0e1q6p5fl65imbqbqac9h42ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDck-eFt0GoTUNmvzzwjUgW2ey7hdWCjE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969462493028-flasvkc0e1q6p5fl65imbqbqac9h42ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
